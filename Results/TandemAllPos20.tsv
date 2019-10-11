@@ -1,0 +1,87 @@
+Organism	Taxon	#UTR	Observed	Expected	ProbabilityOfStop
+Stentor coeruleus	Ciliate (Standard Code)	34247	18582	16414.247521827467	0.10305466670252951
+Euplotes octocarinatus	Ciliate (Stop = UAG, UAA)	28836	10028	10713.557646896756	0.07449177003181082
+Ichthyophthirius mutifilis	Ciliate (Stop = UGA)	6852	628	566.9926435296034	0.014292473507004506
+Oxytricha trifallax	Ciliate (Stop = UGA)	24776	3849	2573.763471669735	0.018114329335950773
+Paramecium tetraurelia 	Ciliate (Stop = UGA)	39248	4912	3262.2956313442883	0.014359032943963838
+Pseudocohnilembus persalinus	Ciliate (Stop = UGA)	13176	1752	1013.5399420248332	0.013251881856158203
+Stylonychia lemnae	Ciliate (Stop = UGA)	15741	2629	1646.686209557388	0.01824768003302556
+Tetrahymena borealis	Ciliate (Stop = UGA)	20342	2900	1982.3340499085648	0.016943405521885346
+Tetrahymena ellioti	Ciliate (Stop = UGA)	20223	2470	1704.792703807936	0.014570498494666198
+Tetrahymena malaccensis	Ciliate (Stop = UGA)	21694	2626	1863.5819013490316	0.014858292846116337
+Tetrahymena thermophila	Ciliate (Stop = UGA)	26498	3046	2259.497423306154	0.014744695498194422
+Giardia intestinalis	Diplomonad (Standard Code)	6498	1779	1800.0026292618913	0.052624439401139415
+Giardia muris	Diplomonad (Standard Code)	4650	1126	1216.1552592018538	0.04927565048509058
+Spironucleus salmonicida	Diplomonad (Stop = UGA)	8079	798	841.4919681651514	0.01816485186313829
+Babesia sp.	Other Alveolates (Standard Code)	3064	994	1009.2725704890354	0.06442722319408942
+Cryptosporidium muris	Other Alveolates (Standard Code)	3904	1774	1799.4559048996973	0.09785841296162946
+Cryptosporidium parvum	Other Alveolates (Standard Code)	3150	1258	1348.7387972717368	0.08894550155636163
+Neospora caninum	Other Alveolates (Standard Code)	6883	911	1608.5796898749597	0.043394601172300255
+Plasmodium falciparum	Other Alveolates (Standard Code)	5321	2012	2763.1942081175944	0.11492708381611931
+Plasmodium vivax	Other Alveolates (Standard Code)	5153	955	1255.3997845427991	0.045470126876174105
+Theileria equi	Other Alveolates (Standard Code)	5328	1701	1850.9889027138852	0.06866274288753478
+Theileria orientalis 	Other Alveolates (Standard Code)	3924	1298	1414.218470437701	0.0717795050113442
+Toxoplasma gondii	Other Alveolates (Standard Code)	8260	1267	2116.443574487261	0.048139509425683125
+Vitrella brassicaformis	Other Alveolates (Standard Code)	22611	4491	5211.374863418655	0.042725066450531535
+Symbiodinium microadriaticum	Other Alveolates (Standard Code)	40449	8094	9305.225335777963	0.04263566793999604
+Perkinsus marinus 	Other Alveolates (Standard Code)	18000	5118	5071.252489764215	0.05365972208417875
+Aureococcus anophagefferens	Other Eukaryotes (Standard Code)	7358	1226	1146.561294652518	0.027837786373253782
+Blastocystis hominis	Other Eukaryotes (Standard Code)	6001	1584	2038.1358861746842	0.06682249981720681
+Ectocarpus siliculosus	Other Eukaryotes (Standard Code)	16045	3099	3729.264220139809	0.04312889490612896
+Hondaea fermentalgiana	Other Eukaryotes (Standard Code)	11150	2580	3120.7690485231665	0.053254650622318433
+Hyphochytrium catenoides	Other Eukaryotes (Standard Code)	9512	2441	2643.4406855874927	0.05282047395075121
+Nannochloropsis gaditana	Other Eukaryotes (Standard Code)	1778	365	469.18706401050696	0.04977970114253506
+Phytophthora infestans	Other Eukaryotes (Standard Code)	17517	4571	5183.23433139699	0.05679521825357815
+Pseudo-nitzschia multistriata	Other Eukaryotes (Standard Code)	11848	2714	3602.3738592929362	0.058624049619482366
+Saprolegnia diclina	Other Eukaryotes (Standard Code)	16729	3780	4294.039886957458	0.04823644831883394
+Thalassiosira pseudonana	Other Eukaryotes (Standard Code)	9317	2984	3289.4727642984585	0.07001235060052907
+Emiliania huxleyi	Other Eukaryotes (Standard Code)	31803	4477	5109.512177518288	0.02876824755699657
+Acanthamoeba castellanii	Other Eukaryotes (Standard Code)	13955	2447	2968.8703992785872	0.03908314134942136
+Acytostelium subglobosum	Other Eukaryotes (Standard Code)	9686	3169	3222.1967771962322	0.06518872115517939
+Cavenderia fasciculata	Other Eukaryotes (Standard Code)	12139	5220	5661.632561133215	0.09939171666989353
+Dictyostelium discoideum 	Other Eukaryotes (Standard Code)	13091	6234	7174.093655542605	0.12396731109507005
+Entamoeba histolytica	Other Eukaryotes (Standard Code)	8016	3152	3415.265986516331	0.08838477550940725
+Reticulomyxa filosa	Other Eukaryotes (Standard Code)	23757	6564	9433.76880584251	0.08087431907711537
+Leishmania major	Other Eukaryotes (Standard Code)	8324	1232	1592.7973957397328	0.03477899322228871
+Leptomonas seymouri	Other Eukaryotes (Standard Code)	8309	1472	1956.2928363280146	0.04375682992634561
+Phytomonas	Other Eukaryotes (Standard Code)	6372	1772	2139.162914946862	0.06590159380767266
+Trypanosoma cruzi	Other Eukaryotes (Standard Code)	16513	3967	5137.174752851385	0.060220093366270114
+Leishmania braziliensis	Other Eukaryotes (Standard Code)	8117	1355	1740.1562317218138	0.03941668571535138
+Trichomonas vaginalis	Other Eukaryotes (Standard Code)	53710	16339	22542.111971910002	0.08670999712262013
+Tritrichomonas foetus	Other Eukaryotes (Standard Code)	22975	8154	9662.958459801244	0.0869423686072594
+Chondrus crispus	Other Eukaryotes (Standard Code)	9676	2087	2589.468537186428	0.05058451676093998
+Cyanidioschyzon merolae	Other Eukaryotes (Standard Code)	4803	724	1043.984715250777	0.04002427566315562
+Galdieria sulphuraria	Other Eukaryotes (Standard Code)	6413	1901	2458.369272086546	0.07741274787162078
+Porphyra umbilicalis	Other Eukaryotes (Standard Code)	12445	1267	1625.2310839179736	0.023054101196303377
+Arabidopsis thaliana	Other Eukaryotes (Standard Code)	27517	8675	9881.044942995732	0.07146206802452153
+Brassica oleracea	Other Eukaryotes (Standard Code)	43473	12961	15378.363986922166	0.07017625391800802
+Chlamydomonas reinhardtii 	Other Eukaryotes (Standard Code)	10763	1978	1956.163912470768	0.03287837228958286
+Glycine max	Other Eukaryotes (Standard Code)	47347	14529	16825.775489831238	0.07056665849178854
+Micractinium conductrix	Other Eukaryotes (Standard Code)	9976	949	1093.5222314850175	0.019164262185771747
+Ostreococcus sp. 'lucimarinus'	Other Eukaryotes (Standard Code)	6195	1568	1569.292624583407	0.04751939554225389
+Phaseolus vulgaris	Other Eukaryotes (Standard Code)	25473	7582	8833.066670330576	0.06850917605073167
+Physcomitrella patens	Other Eukaryotes (Standard Code)	30264	7444	9746.973930610688	0.06273007787203264
+Tetrabaena socialis	Other Eukaryotes (Standard Code)	10639	1367	1580.367648763774	0.026445420079147006
+Volvox carteri	Other Eukaryotes (Standard Code)	12317	2590	2923.5215692295947	0.04415622342044467
+Amanita muscaria	Other Eukaryotes (Standard Code)	15650	4165	4622.724974396651	0.056680141039115006
+Candida albicans	Other Eukaryotes (Standard Code)	5987	2370	2615.484695158954	0.09126766933289013
+Coccidioides posadasii	Other Eukaryotes (Standard Code)	7223	1833	2130.551392855216	0.05658775978993281
+Cryptococcus neoformans	Other Eukaryotes (Standard Code)	6952	2125	2375.4536343599125	0.06730850360964315
+Fusarium oxysporum	Other Eukaryotes (Standard Code)	20811	5912	6562.770579272677	0.06118938449369497
+Kwoniella heveanensis	Other Eukaryotes (Standard Code)	7910	1966	2087.7442057200515	0.04979101427028271
+Postia placenta	Other Eukaryotes (Standard Code)	11034	2324	2695.611949438129	0.04561225557515477
+Puccinia triticina	Other Eukaryotes (Standard Code)	13455	2536	3190.8578120779125	0.04411313722830745
+Saccharomyces cerevisiae	Other Eukaryotes (Standard Code)	6003	1985	2240.5527748968475	0.07491065487264507
+Schizosaccharomyces pombe	Other Eukaryotes (Standard Code)	5123	1741	1896.8171132894608	0.07417812510463959
+Monosiga brevicollis	Other Eukaryotes (Standard Code)	8293	1442	1787.4398129004446	0.03965155177027715
+Salpingoeca rosetta	Other Eukaryotes (Standard Code)	11429	1728	2400.74341028475	0.03853692427201371
+Anolis carolinensis 	Other Eukaryotes (Standard Code)	16370	3712	4852.179045454969	0.05690898497535454
+Apis mellifera	Other Eukaryotes (Standard Code)	9957	3577	4224.1070361506045	0.08790329314012829
+Caenorhabditis elegans 	Other Eukaryotes (Standard Code)	21002	6409	7536.315708665051	0.07140153310666206
+Daphnia pulex 	Other Eukaryotes (Standard Code)	27051	7387	9218.144939662814	0.06709033468097195
+Drosophila melanogaster 	Other Eukaryotes (Standard Code)	13848	3877	4418.662818693354	0.0620442463152206
+Fundulus heteroclitus	Other Eukaryotes (Standard Code)	20355	4030	5032.4156248122345	0.04623037808820746
+Homo sapiens	Other Eukaryotes (Standard Code)	18819	3651	4441.370860336017	0.04387401249923865
+Nothobranchius furzeri	Other Eukaryotes (Standard Code)	20783	4539	5538.604549346083	0.050342516858551206
+Tribolium castaneum	Other Eukaryotes (Standard Code)	12691	4521	4931.563672305141	0.07872549052144925
+Xenopus tropicalis	Other Eukaryotes (Standard Code)	20026	5012	6090.433475502053	0.058641454310545765
